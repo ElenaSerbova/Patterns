@@ -1,0 +1,3 @@
+Sum(12, 23) = 35
+Mult(2, 34) = 68
+Div(23, 0) :  Divide by zero exception
